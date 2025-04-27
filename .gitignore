@@ -1,0 +1,21 @@
+# Ignore Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.db
+*.log
+
+# Ignore CMake build folders
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+
+# Ignore compiled output
+*.obj
+*.exe
+*.pdb
+*.dll
+*.lib
+*.idb
