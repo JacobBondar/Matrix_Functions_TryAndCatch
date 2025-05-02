@@ -1,0 +1,11 @@
+sub
+sub 0
+sub 0 1
+resize
+resize 1 2
+del
+del 1
+del 1 2 3
+help 1
+help
+exit

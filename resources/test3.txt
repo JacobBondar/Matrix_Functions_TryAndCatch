@@ -1,0 +1,7 @@
+eval
+eval a
+eval 2 a
+add
+add a
+add a a
+add 2 a

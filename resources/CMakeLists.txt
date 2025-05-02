@@ -1,0 +1,7 @@
+﻿configure_file ("test1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("test2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("test3.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("test4.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("test5.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("test6.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("test7.txt" ${CMAKE_BINARY_DIR} COPYONLY)

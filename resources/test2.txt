@@ -1,0 +1,5 @@
+read test1.tx
+add 0 1
+eval 1 2
+read test1.txt
+sub 0 3
